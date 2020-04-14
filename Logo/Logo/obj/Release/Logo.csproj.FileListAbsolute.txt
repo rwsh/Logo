@@ -1,0 +1,15 @@
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\bin\Release\Logo.exe.config
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\bin\Release\Logo.exe
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\bin\Release\Logo.pdb
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo.csprojAssemblyReference.cache
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\MainWindow.g.cs
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\App.g.cs
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo_MarkupCompile.cache
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo_MarkupCompile.lref
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\MainWindow.baml
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo.g.resources
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo.Properties.Resources.resources
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo.csproj.GenerateResource.cache
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo.csproj.CoreCompileInputs.cache
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo.exe
+C:\aprorgamm\Dropbox\PROGRAMM\МИРЭА\Кафедра\2019_2020_2\Лекции\Программирование\Практика\07-Работа с классами\Logo\Logo\obj\Release\Logo.pdb
